@@ -10,6 +10,7 @@ namespace Microsoft.Terminal.Settings.Model
         CloseOnExitInfo = 0,
         KeyboardServiceWarning,
         SetAsDefault,
+        CommandNotFound
     };
 
     runtimeclass WindowLayout

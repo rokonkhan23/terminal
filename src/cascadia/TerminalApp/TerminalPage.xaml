@@ -76,7 +76,12 @@
                          IsClosable="True"
                          IsIconVisible="True"
                          IsOpen="False"
-                         Severity="Error" />
+                         Severity="Error">
+                <mux:InfoBar.ActionButton>
+                    <Button x:Uid="InfoBarDismissButton"
+                            Click="_CommandNotFoundDismissHandler" />
+                </mux:InfoBar.ActionButton>
+            </mux:InfoBar>
         </StackPanel>
 
         <Grid x:Name="TabContent"
