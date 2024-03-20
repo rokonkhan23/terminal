@@ -91,7 +91,6 @@ backgrounding
 backported
 backstory
 barbaz
-Batang
 Bazz
 BBDM
 bbwe
@@ -182,6 +181,7 @@ charinfo
 CHARSETINFO
 chcbpat
 chh
+chonker
 chshdng
 CHT
 Cic
@@ -198,7 +198,6 @@ cloudconsole
 cloudvault
 CLSCTX
 clsids
-CLUSTERMAP
 cmatrix
 cmder
 CMDEXT
@@ -214,7 +213,6 @@ codepages
 codepath
 coinit
 colorizing
-COLORMATRIX
 COLORREFs
 colorschemes
 colorspec
@@ -371,7 +369,6 @@ DBlob
 DColor
 DCOLORVALUE
 dcommon
-dcompile
 dcompiler
 DComposition
 dde
@@ -479,7 +476,6 @@ depersist
 deprioritized
 deserializers
 desktopwindowxamlsource
-DESTINATIONNAME
 devicecode
 Dext
 DFactory
@@ -570,6 +566,7 @@ ENUMLOGFONT
 ENUMLOGFONTEX
 enumranges
 EOK
+epres
 EPres
 EQU
 ERASEBKGND
@@ -593,6 +590,7 @@ EXPUNGECOMMANDHISTORY
 EXSTYLE
 EXTENDEDEDITKEY
 EXTKEY
+extpict
 EXTTEXTOUT
 facename
 FACENODE
@@ -607,7 +605,6 @@ FEEF
 fesb
 FFAF
 FFDE
-FFrom
 fgbg
 FGCOLOR
 FGHIJ
@@ -666,6 +663,7 @@ fuzzwrapper
 fwdecl
 fwe
 fwlink
+gcb
 gci
 gcx
 gdi
@@ -719,7 +717,6 @@ GETWAITTOKILLTIMEOUT
 GETWHEELSCROLLCHARACTERS
 GETWHEELSCROLLCHARS
 GETWHEELSCROLLLINES
-GFEh
 Gfun
 gfx
 GGI
@@ -853,6 +850,7 @@ ILD
 ime
 IMPEXP
 inbox
+incb
 inclusivity
 INCONTEXT
 INFOEX
@@ -867,7 +865,6 @@ INLINEPREFIX
 inproc
 Inputkeyinfo
 INPUTPROCESSORPROFILE
-inputrc
 Inputreadhandledata
 INSERTMODE
 INTERACTIVITYBASE
@@ -908,10 +905,6 @@ KAttrs
 kawa
 Kazu
 kazum
-kcub
-kcud
-kcuf
-kcuu
 kernelbase
 kernelbasestaging
 KEYBDINPUT
@@ -923,7 +916,6 @@ Keymapping
 keyscan
 keystate
 keyups
-khome
 KILLACTIVE
 KILLFOCUS
 kinda
@@ -1036,6 +1028,7 @@ luma
 lval
 LVB
 LVERTICAL
+LVT
 LWA
 LWIN
 lwkmvj
@@ -1061,11 +1054,11 @@ MBUTTON
 MBUTTONDBLCLK
 MBUTTONDOWN
 MBUTTONUP
-Mbxy
 mdmerge
 MDs
 MEASUREITEM
 megamix
+Meh
 memallocator
 meme
 MENUCHAR
@@ -1123,8 +1116,8 @@ msix
 msrc
 MSVCRTD
 MTSM
-munges
 Munged
+munges
 murmurhash
 muxes
 myapplet
@@ -1221,7 +1214,6 @@ ntdll
 ntifs
 ntlpcapi
 ntm
-nto
 ntrtl
 ntstatus
 NTSYSCALLAPI
@@ -1297,7 +1289,6 @@ parentable
 parms
 PATCOPY
 pathcch
-Pathto
 PATTERNID
 pcat
 pcb
@@ -1456,7 +1447,6 @@ pwsz
 pythonw
 Qaabbcc
 QUERYOPEN
-QUESTIONMARK
 quickedit
 QUZ
 QWER
@@ -1489,8 +1479,6 @@ READCONSOLE
 READCONSOLEOUTPUT
 READCONSOLEOUTPUTSTRING
 READMODE
-reallocs
-reamapping
 rectread
 redef
 redefinable
@@ -1518,7 +1506,6 @@ repositorypath
 Requiresx
 rerasterize
 rescap
-Resequence
 RESETCONTENT
 resheader
 resmimetype
@@ -1541,7 +1528,7 @@ rgw
 RIGHTALIGN
 RIGHTBUTTON
 riid
-RIS
+ris
 roadmap
 robomac
 rosetta
@@ -1551,7 +1538,6 @@ RRRGGGBB
 rsas
 rtcore
 RTEXT
-RTFTo
 RTLREADING
 Rtn
 ruleset
@@ -1699,7 +1685,6 @@ srcsrv
 SRCSRVTRG
 srctool
 srect
-srv
 srvinit
 srvpipe
 ssa
@@ -1731,7 +1716,6 @@ SUA
 subcompartment
 subkeys
 SUBLANG
-subresource
 subsystemconsole
 subsystemwindows
 swapchain
@@ -1835,7 +1819,6 @@ tosign
 touchpad
 Tpp
 Tpqrst
-tracelog
 tracelogging
 traceviewpp
 trackbar
@@ -1848,6 +1831,7 @@ triaged
 triaging
 TRIANGLESTRIP
 Tribool
+triegen
 TRIMZEROHEADINGS
 trx
 tsa
@@ -1888,8 +1872,8 @@ UINTs
 ul
 ulcch
 uld
-uldb
 uldash
+uldb
 ulwave
 Unadvise
 unattend
@@ -1900,7 +1884,6 @@ unhosted
 UNICODETEXT
 UNICRT
 Unintense
-Uniscribe
 unittesting
 unittests
 unk
@@ -1912,8 +1895,8 @@ untextured
 UPDATEDISPLAY
 UPDOWN
 UPKEY
-UPSS
 upss
+UPSS
 uregex
 URegular
 usebackq
@@ -1996,7 +1979,6 @@ VTRGBTo
 vtseq
 vtterm
 vttest
-waitable
 WANSUNG
 WANTARROWS
 WANTTAB
@@ -2156,13 +2138,11 @@ XBUTTONDOWN
 XBUTTONUP
 XCast
 XCENTER
-XColors
 xcopy
 XCount
 xdy
 XEncoding
 xes
-xff
 XFG
 XFile
 XFORM
@@ -2171,7 +2151,6 @@ xinchaof
 xinxinchaof
 XManifest
 XMath
-XMFLOAT
 xorg
 XResource
 xsi
